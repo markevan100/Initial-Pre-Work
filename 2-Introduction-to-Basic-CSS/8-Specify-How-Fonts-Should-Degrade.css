@@ -1,0 +1,5 @@
+/* Add a second font-family in order to degrade when first is unavailable */
+
+h2 {
+    font-family: Lobster, monospace;
+  }
