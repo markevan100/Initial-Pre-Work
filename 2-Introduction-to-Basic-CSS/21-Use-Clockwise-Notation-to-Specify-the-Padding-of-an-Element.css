@@ -1,0 +1,8 @@
+/* Clockwise notation for padding. I've seen this before but not known what was  */
+/* going on, cool thing to learn! */
+
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 40px 20px 20px 40px;
+}
