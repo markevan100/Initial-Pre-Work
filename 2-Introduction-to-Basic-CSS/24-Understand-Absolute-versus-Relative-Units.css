@@ -1,0 +1,7 @@
+/* Add padding in em rather than px */
+
+.red-box {
+  background-color: red;
+  margin: 20px 40px 20px 40px;
+  padding: 1.5em;
+}
