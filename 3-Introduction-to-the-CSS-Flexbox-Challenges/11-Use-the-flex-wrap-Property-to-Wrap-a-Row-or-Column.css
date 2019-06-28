@@ -1,0 +1,8 @@
+/* Add flex wrapping to better fit all boxes */
+
+#box-container {
+   background: gray;
+   display: flex;
+   height: 100%;
+   flex-wrap: wrap;
+ }
