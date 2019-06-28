@@ -1,0 +1,39 @@
+/* Added fallback values for CSS variables  */
+
+.penguin {
+  --penguin-skin: black;
+  --penguin-belly: gray;
+  --penguin-beak: yellow;
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 5%;
+  width: 300px;
+  height: 300px;
+}
+
+.penguin-top {
+  top: 10%;
+  left: 25%;
+
+  /* change code below */
+  background: var(--pengiun-skin, black);
+  /* change code above */
+
+  width: 50%;
+  height: 45%;
+  border-radius: 70% 70% 60% 60%;
+}
+
+.penguin-bottom {
+  top: 40%;
+  left: 23.5%;
+
+  /* change code below */
+  background: var(--pengiun-skin, black);
+  /* change code above */
+
+  width: 53%;
+  height: 45%;
+  border-radius: 70% 70% 100% 100%;
+}
