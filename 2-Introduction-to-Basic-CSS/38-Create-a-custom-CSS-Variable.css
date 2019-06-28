@@ -1,0 +1,14 @@
+/* Created a variable in CSS */
+
+.penguin {
+
+    /* add code below */
+    --penguin-skin: gray;
+    /* add code above */
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 300px;
+    height: 300px;
+  }
