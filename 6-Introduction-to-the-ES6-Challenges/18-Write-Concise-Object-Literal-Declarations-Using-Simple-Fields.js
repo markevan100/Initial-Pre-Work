@@ -1,4 +1,4 @@
-//Declarative functions
+//Create an object literal
 
 const createPerson = (name, age, gender) => {
   "use strict";
