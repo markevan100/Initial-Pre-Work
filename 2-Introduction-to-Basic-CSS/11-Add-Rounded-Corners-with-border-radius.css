@@ -1,0 +1,8 @@
+/* Round borders with radius */
+
+.thick-green-border {
+  border-color: green;
+  border-width: 10px;
+  border-radius: 10px;
+  border-style: solid;
+}

@@ -1,0 +1,13 @@
+/* Changed padding so that the two boxes appear to be the same size */
+
+.red-box {
+  background-color: crimson;
+  color: #fff;
+  padding: 20px;
+}
+
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+}

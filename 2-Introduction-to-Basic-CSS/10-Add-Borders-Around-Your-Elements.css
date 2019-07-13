@@ -1,0 +1,7 @@
+/* Created a border and applied it to my image */
+
+.thick-green-border {
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+}

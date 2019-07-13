@@ -1,0 +1,17 @@
+/* Using CSS variables, this is pretty cool. Makes a lot of sense, but I didn't know you could do this.  */
+
+.penguin {
+
+  /* change code below */
+  --penguin-skin: gray;
+  --penguin-belly: white;
+  --penguin-beak: orange;
+  /* change code above */
+
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 5%;
+  width: 300px;
+  height: 300px;
+}

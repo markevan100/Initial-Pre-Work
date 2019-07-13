@@ -1,0 +1,8 @@
+/* That's pretty cool, using a percentage border-radius will give you a circular image */
+
+.thick-green-border {
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}

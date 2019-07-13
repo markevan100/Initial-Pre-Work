@@ -1,0 +1,15 @@
+/* Changed margin to make the two boxes match */
+
+.red-box {
+  background-color: crimson;
+  color: #fff;
+  padding: 20px;
+  margin: 20px;
+}
+
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+  margin: 20px;
+}

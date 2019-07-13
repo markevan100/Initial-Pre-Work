@@ -1,0 +1,14 @@
+/* Adjust template areas with media queries */
+
+@media (min-width: 400px){
+  .container{
+    /* change the code below this line */
+
+    grid-template-areas:
+      "header header"
+      "advert content"
+      "footer footer";
+
+  /* change the code above this line */
+  }
+}

@@ -1,0 +1,18 @@
+/* Starting to learn about grids, this is interesting. I've known about this, but
+I'm certainly not a master, so hopefully this unit will be educational.  */
+
+.d1{background:LightSkyBlue;}
+.d2{background:LightSalmon;}
+.d3{background:PaleTurquoise;}
+.d4{background:LightPink;}
+.d5{background:PaleGreen;}
+
+.container {
+  font-size: 40px;
+  width: 100%;
+  background: LightGray;
+  /* add your code below this line */
+  display: grid;
+
+  /* add your code above this line */
+}
